@@ -24,4 +24,10 @@ print("hasil\n", hasil)
 soal2_formula = (3 * b) + (2 * c)
 print("hasil\n", soal2_formula)
 
+# soal c |A| + |B| + |C|
+determinan_a = np.linalg.det(a)
+determinan_b = np.linalg.det(b)
+determinan_c = np.linalg.det(c)
+hasil_soal3 = determinan_a + determinan_b + determinan_c
 
+print(hasil_soal3)
