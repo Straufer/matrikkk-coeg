@@ -31,3 +31,12 @@ determinan_c = np.linalg.det(c)
 hasil_soal3 = determinan_a + determinan_b + determinan_c
 
 print(hasil_soal3)
+
+# soal perkalian matriks a kali c
+hasilDot = np.dot(a, c)
+hasilAt = a @ c
+hasilMatmul = np.matmul(a, c)
+
+print("hasil\n", hasilDot)
+print("hasil\n", hasilAt)
+print("hasil\n", hasilMatmul)
