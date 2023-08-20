@@ -1,4 +1,0 @@
-# matriks
-
-### Library Numpy
-
