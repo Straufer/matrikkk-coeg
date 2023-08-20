@@ -37,5 +37,3 @@ sum_plus = np.add(p, q)
 sum_mines = np.subtract(p, q)
 soal_4 = np.dot(sum_plus, sum_mines)
 print(f"question 4: \n{soal_4}")
-
-
