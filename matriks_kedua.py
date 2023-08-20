@@ -2,4 +2,17 @@
 
 import numpy as np
 
-print("hello world")
+# matriks
+p = np.array([[2, 1], [-1, 5]])
+b = np.array([[-3, 4], [-0, -4]])
+r = np.array([[4, 3], [-2, 2]])
+
+# soal
+# 1. pq
+# 2. pq^t
+# 3. p(r+q)
+# 4. (p+q)(p-q])
+
+
+
+
